@@ -28,8 +28,10 @@ This project involves the analysis of HR data to understand the key factors infl
 - Attrition trends across different roles and departments.
 
 ## Interactive Filters:
-- Department-specific insights (e.g., Human Resources, Research & Development, Sales).
--Gender-based analysis for attrition trends.
+- Education Field insights (e.g., Bachelor's Degree,Associates Degree)
+- Department-specific insights (e.g., Human Resources, Research & Development, Sales)
+- Gender based analysis for attrition trends
+  
 
 # Dashboard Preview
 ![Dashboard Preview](HRAnalyticsDashboard.png)
