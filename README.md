@@ -17,11 +17,10 @@ This project involves the analysis of HR data to understand the key factors infl
 # 📈 Dashboard Features
 ## Key Metrics:
 - Total Employees: 1,480
-- Attrition Count: 238
+- Attrition Count: 237
 - Attrition Ratio: 16.1%
 - Average Age: 37 years
-- Average Salary: ₹6,505
-- Average Tenure: 7 years
+- Average Employees : 1233
   
 ## Dynamic Visualizations:
 - Attrition by education, age, salary slabs, years at the company, and job roles.
