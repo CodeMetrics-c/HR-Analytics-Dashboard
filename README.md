@@ -5,7 +5,7 @@ This Power BI-based HR Analytics Dashboard provides insights into employee attri
 # 📌 Objective
 The goal of this project is to analyze employee attrition factors and identify key drivers of turnover. Understanding these factors allows HR professionals to implement targeted strategies that improve employee retention and enhance overall workplace satisfaction.
 
-# Tools Used
+# 🛠 Tools Used
 - Power BI: Primary tool for data analysis and interactive visualization.
 - Power Query: Used for data cleaning, transformation, and preprocessing.
 - Charts & Graphs: Employed for visual representation of trends and patterns.
@@ -14,7 +14,7 @@ The goal of this project is to analyze employee attrition factors and identify k
 # Project Description
 This project involves the analysis of HR data to understand the key factors influencing employee attrition. The insights derived are crucial for improving employee experience, streamlining hiring processes, and refining workforce management strategies.
 
-# Dashboard Features
+# 📈 Dashboard Features
 # Key Metrics:
 - Total Employees: 1,480
 - Attrition Count: 238
