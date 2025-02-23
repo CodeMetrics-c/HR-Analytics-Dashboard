@@ -6,10 +6,10 @@ This Power BI-based HR Analytics Dashboard provides insights into employee attri
 The goal of this project is to analyze employee attrition factors and identify key drivers of turnover. Understanding these factors allows HR professionals to implement targeted strategies that improve employee retention and enhance overall workplace satisfaction.
 
 ## 🛠 Tools Used
-- Power BI: Primary tool for data analysis and interactive visualization.
-- Power Query: Used for data cleaning, transformation, and preprocessing.
-- Charts & Graphs: Employed for visual representation of trends and patterns.
-- Pivot Tables: Used within Power BI for dynamic aggregation and filtering.
+- **Power BI**: Primary tool for data analysis and interactive visualization.
+- **Power Query**: Used for data cleaning, transformation, and preprocessing.
+- **Charts & Graphs**: Employed for visual representation of trends and patterns.
+- **Pivot Tables**: Used within Power BI for dynamic aggregation and filtering.
 
 ## Project Description
 This project involves the analysis of HR data to understand the key factors influencing employee attrition. The insights derived are crucial for improving employee experience, streamlining hiring processes, and refining workforce management strategies.
@@ -62,11 +62,11 @@ This project involves the analysis of HR data to understand the key factors infl
 
 ## Recommendations
 
-- *Improve Salary Competitiveness* : Address attrition in the lower salary brackets by offering better compensation and benefits packages.
-- *Enhance Employee Onboarding*: Implement structured onboarding programs to boost retention among new hires.
-- *Career Development Programs*: Provide clearer career progression paths for employees with 5-7 years of tenure.
-- *Targeted Interventions for Key Roles*: Address the specific challenges faced by Laboratory Technicians and Sales Executives to reduce turnover.
-- *Focus on Employee Engagemen*t: Conduct regular feedback sessions and introduce well-being initiatives to improve employee satisfaction.
+- **Improve Salary Competitiveness** : Address attrition in the lower salary brackets by offering better compensation and benefits packages.
+- **Enhance Employee Onboarding**: Implement structured onboarding programs to boost retention among new hires.
+- **Career Development Programs**: Provide clearer career progression paths for employees with 5-7 years of tenure.
+- **Targeted Interventions for Key Roles**: Address the specific challenges faced by Laboratory Technicians and Sales Executives to reduce turnover.
+- **Focus on Employee Engagement**: Conduct regular feedback sessions and introduce well-being initiatives to improve employee satisfaction.
   
 ## Project Learning
 - Developed a structured approach to analyzing HR data for strategic decision-making.
