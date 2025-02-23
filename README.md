@@ -33,6 +33,7 @@ This project involves the analysis of HR data to understand the key factors infl
 -Gender-based analysis for attrition trends.
 
 # Dashboard Preview
+![Dashboard Preview](HRAnalyticsDashboard.png)
 
 ## 📌 Key Insights
 ## Attrition by Age Group:
