@@ -14,7 +14,7 @@ The goal of this project is to analyze employee attrition factors and identify k
 ## Project Description
 This project involves the analysis of HR data to understand the key factors influencing employee attrition. The insights derived are crucial for improving employee experience, streamlining hiring processes, and refining workforce management strategies.
 
-## 📈 Dashboard Features
+# 📈 Dashboard Features
 ## Key Metrics:
 - Total Employees: 1,480
 - Attrition Count: 238
